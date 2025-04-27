@@ -515,7 +515,7 @@ def document_query():
 
 def main():
     # Set the title of the app
-    st.title("EduMate – Your Smartest Study Companion!🚀📚")
+    st.title("Academix – Your Smartest Study Companion!🚀📚")
 
     # Define the menu options
     menu = ["Upload Study Materials", "Summarizer", "Create Quizzes", "Ask Questions", "Notes", "Uploaded Files"]
