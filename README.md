@@ -69,3 +69,21 @@ Once everything is set up, run the following command to launch the app:
 
 ```bash
 streamlit run Academix.py
+```
+## Contributors
+
+- **Aharnish**
+- **Ayushmaan**
+- **Udhay**
+- **Shreyansh**
+
+## Acknowledgments
+
+Thank you to all the contributors for their efforts in making Academix a smarter and better study companion. Special thanks to the open-source community for providing valuable tools and resources.
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
+
